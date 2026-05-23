@@ -13,7 +13,7 @@ function App() {
           src="https://images.unsplash.com/photo-1506744038136-46273834b3fb"
           alt="nature"
         />
-        <Card.Body>abul khay babul</Card.Body>
+        <Card.Body>Im BlackManZest</Card.Body>
         <Card.Footer>
           <button onClick={() => handleOpen(false)}>CLOSE</button>
         </Card.Footer>
